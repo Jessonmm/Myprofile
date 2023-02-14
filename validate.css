@@ -1,0 +1,38 @@
+.name-error{
+    position: relative;
+    left: 120px;
+    color: rgb(17, 0, 255);
+    font-size: 13px;
+    top: -70px;
+  
+}
+.email-error{
+    position: relative;
+    left: 120px;
+    color: red;
+    font-size: 13px;
+    top: -70px;
+  
+}
+.mobile-error{
+    position: relative;
+    left: 120px;
+    color: red;
+    font-size: 13px;
+    top: -70px;
+}
+.message-error{
+    position: relative;
+    color: red;
+    font-size: 13px;
+    top: -150px;
+  
+}
+.submit-error{
+    position: relative;
+    left: -110px;
+    color: red;
+    font-size: 13px;
+    top: -25px;
+  
+}
